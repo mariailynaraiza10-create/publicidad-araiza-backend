@@ -1477,7 +1477,7 @@ app.listen(
         console.log("");
 
         console.log(
-            `🌐 Panel:https://publicidad-araiza.onrender.com/`
+            `🌐 Panel:https://publicidad-araiza-bckend.onrender.com/`
         );
 
         console.log("");
